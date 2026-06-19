@@ -1,0 +1,29 @@
+# Archives
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Cache
+code/cache/
+code_solution/cache/
+
+# Duplicate folders
+claims/
+repo_clone/
+code_solution/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
